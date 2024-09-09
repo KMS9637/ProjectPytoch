@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89de1b47-6b2f-4c48-b167-d76bdb414b64" name="변경" comment="240909 AnimalFace 안드로이드와 연결하기 위한 수정" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kodokyun94&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kodokyun94/BigdataMLVisual501_practice.git&quot;,
+    &quot;accountId&quot;: &quot;2429984d-a1aa-457a-8011-7df33722966a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lHBVkcbJl9iYPY1U8Bhi5nhSZr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BigdataMLVisual501_practice123/testdjangoProject/testDjangoProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\BigdataMLVisual501_practice123\testdjangoProject\testDjangoProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="89de1b47-6b2f-4c48-b167-d76bdb414b64" name="변경" comment="" />
+      <created>1724827146896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724827146896</updated>
+      <workItem from="1724827148033" duration="233000" />
+      <workItem from="1724827482578" duration="11132000" />
+      <workItem from="1724889540836" duration="4201000" />
+      <workItem from="1724992748426" duration="1428000" />
+      <workItem from="1725237834633" duration="4549000" />
+      <workItem from="1725366842664" duration="8624000" />
+      <workItem from="1725536789678" duration="671000" />
+      <workItem from="1725841046479" duration="11000" />
+      <workItem from="1725841470058" duration="5766000" />
+      <workItem from="1725853013655" duration="22000" />
+      <workItem from="1725853208692" duration="1833000" />
+      <workItem from="1725858018717" duration="998000" />
+    </task>
+    <task id="LOCAL-00001" summary="커밋 부탁드립니다">
+      <option name="closed" value="true" />
+      <created>1724849621070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724849621070</updated>
+    </task>
+    <task id="LOCAL-00002" summary="240903 우리 모델에 맞춰서 작업">
+      <option name="closed" value="true" />
+      <created>1725366897001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725366897001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="240905 기본 세팅 변경">
+      <option name="closed" value="true" />
+      <created>1725536818509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536818509</updated>
+    </task>
+    <task id="LOCAL-00004" summary="240909 AnimalFace 안드로이드와 연결하기 위한 수정">
+      <option name="closed" value="true" />
+      <created>1725852456445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725852456445</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="커밋 부탁드립니다" />
+    <MESSAGE value="240903 우리 모델에 맞춰서 작업" />
+    <MESSAGE value="240905 기본 세팅 변경" />
+    <MESSAGE value="240909 AnimalFace 안드로이드와 연결하기 위한 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="240909 AnimalFace 안드로이드와 연결하기 위한 수정" />
+  </component>
+</project>
